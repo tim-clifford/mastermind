@@ -1,0 +1,1 @@
+def check(guess,code): return [a in code and not (a == b) and not all([a == guess[x] for x in [i for i,v in enumerate(code) if v == a]]) for a,b in zip(guess,code)].count(True), [a == b for a,b in zip(guess,code)].count(True)

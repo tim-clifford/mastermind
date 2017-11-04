@@ -1,0 +1,19 @@
+The code-setter produces as secrete code which is an arrangement of a number of items which are
+defined before the game begins. The code-breaker, with certain help from the code-setter, attempts
+to guess the code within a given number of attempts. The game is played by choosing an
+arrangement of four colours from a given six, and the exact arrangement has to be reproduced by
+the code-breaker.
+When the code-breaker has made a guess at the code, the code-setter must mark the guess. This
+involves saying how many colours are correct and in the correct position in the arrangement, which
+is done by giving a number of black markers; and secondly, saying how many colours are correct
+but in the wrong position, this being indicated by white markers.
+For example:
+Code set BLUE RED YELLOW GREEN
+Guess RED GREEN YELLOW BROWN
+score 1 BLACK 2 WHITE
+The code-breaker then goes on to make another guess, helped this time by the information which
+has been received from the first guess.
+After several guesses and the information received from each one, it should be possible for the
+code-breaker to deduce the correct arrangement. The final score is linked to the number of guesses
+made. If the code-breaker is not successful within an agreed number of attempts then the code-setter
+has defeated the code-breaker.
