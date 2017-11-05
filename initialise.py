@@ -1,6 +1,6 @@
 import random
 def rules(): return "".join(open("rules.txt").readlines())
-def getColors(path):
+def getInfo(path):
     with open(path) as f:
         try:
             n = int(f.readline().split()[-1])
