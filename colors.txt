@@ -1,5 +1,8 @@
-brown
-blue
-green
-yellow
-pink
+CHOICES: 4
+MAX ATTEMPTS: 10
+#f00 red
+#00f blue
+#0f0 green
+#ff0 yellow
+#f0f pink
+#ccc silver
