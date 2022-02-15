@@ -1,3 +1,9 @@
+
+
+| :exclamation:  | This is a mirror of [https://git.sr.ht/~tim-clifford/mastermind](https://git.sr.ht/~tim-clifford/mastermind). Please refrain from using GitHub's issue and PR system.  |
+|----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 # Mastermind
 Classic Mastermind game written in python with tkinter
 
